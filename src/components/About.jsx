@@ -20,11 +20,11 @@ const About = () => {
         </h3>
         
         <p className="primary-text">
-          <strong>Painel Web Administrativo:</strong> Gerencie ordens de serviço em tempo real com Dashboards estratégicos, controle de laboratório para máquinas e laudos técnicos, além de uma agenda integrada para total organização das demandas da sua equipe.
+          <h4 className="primary-h4">Painel Web Administrativo:</h4> Gerencie ordens de serviço em tempo real com Dashboards estratégicos, controle de laboratório para máquinas e laudos técnicos, além de uma agenda integrada para total organização das demandas da sua equipe.
         </p>
         
         <p className="primary-text">
-          <strong>Aplicativo do Técnico:</strong> Mobilidade total com rotas via Waze e Google Maps, upload de fotos do atendimento diretamente para a nuvem e coleta de assinatura digital do cliente para encerramento imediato da OS em campo.
+           <h4 className="primary-h4">Aplicativo do Técnico:</h4> Mobilidade total com rotas via Waze e Google Maps, upload de fotos do atendimento diretamente para a nuvem e coleta de assinatura digital do cliente para encerramento imediato da OS em campo.
         </p>
 
         <div className="about-button-container">
