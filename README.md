@@ -47,8 +47,6 @@ A landing page foi projetada para:
 
 - **React**
 - **Vite**
-- **TypeScript**
-- **Tailwind CSS**
 - **Framer Motion**
 - **Design Responsivo**
 
