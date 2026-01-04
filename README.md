@@ -1,5 +1,7 @@
 # 🚀 Tech OS — Landing Page
 
+<img src="https://github.com/user-attachments/assets/c74f3057-0127-42a6-8c9d-da155e5d3513" width="100%">
+
 Landing page desenvolvida para apresentação do **Tech OS**, um sistema completo de gestão de Ordens de Serviço (OS) e tickets internos, voltado para empresas de informática, helpdesk, telecom e suporte técnico.
 
 O projeto tem como objetivo comunicar valor de forma clara, profissional e orientada a produto, servindo como porta de entrada para demonstração e aquisição do sistema.
