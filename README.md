@@ -1,16 +1,80 @@
-# React + Vite
+# 🚀 Tech OS — Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="https://github.com/user-attachments/assets/c74f3057-0127-42a6-8c9d-da155e5d3513" width="100%">
 
-Currently, two official plugins are available:
+Landing page desenvolvida para apresentação do **Tech OS**, um sistema completo de gestão de Ordens de Serviço (OS) e tickets internos, voltado para empresas de informática, helpdesk, telecom e suporte técnico.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O projeto tem como objetivo comunicar valor de forma clara, profissional e orientada a produto, servindo como porta de entrada para demonstração e aquisição do sistema.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🧠 Sobre o Tech OS
 
-## Expanding the ESLint configuration
+O **Tech OS** é uma plataforma SaaS criada para organizar e otimizar a rotina operacional de empresas técnicas, centralizando atendimentos, ordens de serviço, técnicos, máquinas e clientes em um único sistema.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+A landing page foi projetada para:
+- Apresentar o produto de forma objetiva
+- Destacar funcionalidades e diferenciais
+- Gerar interesse comercial (B2B)
+- Reforçar credibilidade e profissionalismo
+
+---
+
+## ✨ Funcionalidades Apresentadas
+
+- Gestão completa de Ordens de Serviço (OS)
+- Tickets internos
+- Cadastro de clientes, empresas e unidades
+- Agenda técnica integrada
+- Controle de máquinas e patrimônios
+- Aplicativo mobile para técnicos
+- Integração com Google Maps e Waze
+- Assinatura digital de ordens concluídas
+- Painel administrativo moderno
+- Segurança com autenticação JWT
+
+---
+
+## 🎨 Destaques da Interface
+
+- Hero section focada em proposta de valor
+- Seções de funcionalidades em destaque
+- Design SaaS moderno e profissional
+- Layout responsivo (Desktop e Mobile)
+- Animações suaves para melhor experiência do usuário
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **React**
+- **Vite**
+- **Framer Motion**
+- **Design Responsivo**
+
+---
+
+## 🎯 Objetivo do Projeto
+
+Este projeto faz parte do portfólio profissional e tem como foco demonstrar:
+- Criação de interfaces orientadas a produto
+- Pensamento estratégico em UX/UI
+- Capacidade de apresentar soluções SaaS reais
+- Boas práticas de desenvolvimento frontend
+
+---
+
+## 👨‍💻 Autor
+
+**Pablo Cruz**  
+Desenvolvedor Fullstack  
+
+**Stacks:**  
+TypeScript • React • React Native • Next.js • Node.js • PostgreSQL  
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença **MIT**.  
+Sinta-se à vontade para estudar e reutilizar como referência.
