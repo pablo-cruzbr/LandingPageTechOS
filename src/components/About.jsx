@@ -1,6 +1,7 @@
 import React from 'react';
 import AboutBackground from '../assets/desing-fundo-about.png';
 import AboutBanner from '../assets/desing-about.png';
+import CalendarAbout from '../assets/calendar-about.png'
 
 const About = () => {
   return (
