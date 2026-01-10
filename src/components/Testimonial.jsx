@@ -12,7 +12,7 @@ const Testimonial = () => {
 
       <div className="testimonial-section-bottom">
           <img src={ProfilePhoto} alt="" />
-      <p>"Como técnico de helpdesk nível 2, senti na pele a dificuldade de gerenciar OS e ativos sem as ferramentas certas. Desenvolvi o Tech OS para ser o sistema que eu sempre quis usar: ágil, focado em mobilidade e com controle total sobre o que realmente importa na nossa rotina."</p>
+      <p>"Como técnico de helpdesk Plano e Desenvolvedor FullStack Junior, senti na pele a dificuldade de gerenciar OS e ativos sem as ferramentas certas. Desenvolvi o Tech OS para ser o sistema que eu sempre quis usar: ágil, focado em mobilidade e com controle total sobre o que realmente importa na nossa rotina."</p>
 
      
       <h2>Pablo Cruz</h2>
