@@ -104,6 +104,10 @@ nav {
   }
 
 .secondary-button {
+
+  margin-top: 2rem; 
+  margin-left: 4rem; 
+  
   padding: 1rem 2.5rem;
   background-color: #fe9e0d;
   outline: none;
@@ -118,6 +122,7 @@ nav {
   align-items: center;
   justify-content: center;
 }
+
 .secondary-button svg {
   margin-left: 0.75rem;
   font-size: 1.5rem;

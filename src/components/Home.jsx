@@ -1,6 +1,7 @@
 import React from 'react'
 import BannerHomeBackground from "../assets/desing-fundo-home.png";
-import BannerHome from "../assets/desing-home.png"
+import BannerHome from "../assets/desing-home.png";
+
 const Home = () => {
   return (
    <div className="home-container">
@@ -16,6 +17,9 @@ const Home = () => {
           <p className="primary-text">
             Do Helpdesk ao campo. Gerencie Ordens de Serviço, controle patrimônios e ofereça mobilidade total para seus técnicos com o Tech OS.
           </p>
+           <button className="secondary-button">
+           Download App {" "}
+          </button>
         </div>
 
         <div className="home-image-section">
