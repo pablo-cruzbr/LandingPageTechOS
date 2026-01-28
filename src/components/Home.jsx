@@ -17,9 +17,12 @@ const Home = () => {
           <p className="primary-text">
             Do Helpdesk ao campo. Gerencie Ordens de Serviço, controle patrimônios e ofereça mobilidade total para seus técnicos com o Tech OS.
           </p>
-           <button className="secondary-button">
-           Download App {" "}
-          </button>
+           <button 
+              className="secondary-button"
+              onClick={() => window.open("https://frontend-portifolio-metadata-api.vercel.app/detalhesApp/", "_blank")}
+            >
+              Download App
+            </button>
         </div>
 
         <div className="home-image-section">
