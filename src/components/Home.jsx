@@ -23,6 +23,13 @@ const Home = () => {
             >
               Download App
             </button>
+
+            <button 
+              className="secondary-button"
+              onClick={() => window.open("https://frontend-portifolio-metadata-api.vercel.app/", "_blank")}
+            >
+              Conheça meus Projetos
+            </button>
         </div>
 
         <div className="home-image-section">
