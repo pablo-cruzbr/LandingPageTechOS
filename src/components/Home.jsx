@@ -26,10 +26,17 @@ const Home = () => {
 
             <button 
               className="secondary-button"
+              onClick={() => window.open("https://tech-os-saa-s-q7ea.vercel.app/", "_blank")}
+            >
+              Acesse a Plataforma Web
+            </button>
+
+            <button 
+              className="secondary-button"
               onClick={() => window.open("https://frontend-portifolio-metadata-api.vercel.app/", "_blank")}
             >
               Conheça meus Projetos
-            </button>
+            </button>    
         </div>
 
         <div className="home-image-section">
