@@ -6,7 +6,7 @@ import RotasInteligentes from '../assets/rotasinteligentes.png';
 import DocumentacaoDigital from '../assets/documentacaodigital.png';
 import AssinaturaDigital from '../assets/assinaturadigital.png'
 
-const work = () => {
+const Work = () => {
   const workInfoData = [
     {
      image: GestãodeUnidades,
